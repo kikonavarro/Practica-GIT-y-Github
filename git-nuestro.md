@@ -1,3 +1,4 @@
+#CREDO DEL GIT
 *Git* nuestro
 Git nuestro que estas en los repos
 Comrpimidos sean tus *commits*
